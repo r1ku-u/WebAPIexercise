@@ -16,6 +16,7 @@
     "build": "react-scripts build",
     "start": "react-scripts start"
   },
+  "homepage": "https://r1ku-u.github.io/WebAPIexercise",
   "keywords": [],
   "author": "",
   "license": "ISC",
