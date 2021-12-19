@@ -1,0 +1,2 @@
+node_modulesは入っているファイルが多すぎるためUploadしませんでした。
+CSSにbulmaを使用しています。
